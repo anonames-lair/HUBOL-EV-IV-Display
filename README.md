@@ -7,8 +7,8 @@ Specially configured for HUBOL DPE/CFRU. With the same build requirments as the 
 ![screenshot](https://i.imgur.com/a23noiy.png)
 
 ## Instruction
-1. Obtain the original by Acimut
-2. Take the files in this repository and replace the corresponding ones in the original
+1. Obtain the original program by Acimut
+2. Take the files in this repository and replace the corresponding ones in the original program
 3. Install required programs Acimut mentioned (also including `preproc.exe` and `gbagfx.exe` in your PATH environment variable)
 4. Once you have everything set up, follow the instructions for setting the offset in `config.mk` and renaming the rom to `CFRU.gba`
-5. Finally, you should be ready to compile by running `make`
+5. Finally, you should be ready to compile by running `make` in the terminal
